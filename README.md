@@ -25,7 +25,7 @@ Usei o ChatGPT ao longo de toda a atividade, sempre em ciclos curtos: eu pedia u
 
 Na **análise**, o uso mais produtivo foi pedir para a IA cruzar as falas de stakeholders diferentes procurando conflitos. Foi assim que a contradição C1 (comprovante "logo após a inscrição" × inscrição liberada só depois do pagamento) ficou evidente — numa leitura corrida ela passa fácil, porque as duas falas estão em seções diferentes do documento. A classificação inicial em RF/RNF/RN também partiu de um rascunho da IA, que revisei linha a linha.
 
-Na **escolha dos artefatos**, pedi sugestões e recebi a receita esperada: histórias de usuário, critérios BDD, casos de uso para os fluxos complexos, matriz de rastreabilidade e protótipos. Usei essa lista mais como ponto de partida para discutir do que como decisão pronta — o resultado está na seção seguinte.
+Na **escolha dos artefatos**, pedi sugestões e recebi a receita esperada: histórias de usuário, critérios BDD, casos de uso para os fluxos complexos, matriz de rastreabilidade e protótipos. Usei essa lista mais como ponto de partida para discutir do que como decisão pronta - o resultado está na seção seguinte.
 
 Na **especificação**, a IA gerou as primeiras versões das histórias e dos cenários Gherkin. O trabalho de revisão foi maior do que eu esperava: a tendência dela é completar lacunas com valores plausíveis, e eu queria exatamente o contrário — que as lacunas ficassem visíveis.
 
