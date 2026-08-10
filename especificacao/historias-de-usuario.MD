@@ -8,7 +8,7 @@ Uma convenção importante: quando um comportamento depende de uma dúvida ainda
 
 ## Participante
 
-### HU01 — Visualizar catálogo de eventos
+### HU01 - Visualizar catálogo de eventos
 
 **Como** participante, **quero** ver todos os eventos disponíveis em um único lugar, **para** decidir em quais me inscrever sem depender de links avulsos.
 
