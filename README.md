@@ -1,4 +1,4 @@
-# Engenharia de Requisitos com GenAI — Sistema de Gestão de Eventos (Eventus)
+# Engenharia de Requisitos com GenAI - Sistema de Gestão de Eventos (Eventus)
 
 Atividade prática da disciplina: análise do documento de elicitação do sistema da Eventus e produção dos artefatos de especificação, usando IA generativa como apoio.
 
